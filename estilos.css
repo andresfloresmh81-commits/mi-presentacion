@@ -1,0 +1,17 @@
+img {
+    border-radius: 50%
+}
+
+#lista-habilidades {
+    display: flex;
+    gap: 8px;
+    list-style: none;
+    padding: 0;
+}
+
+#lista-habilidades li {
+    background-color: blue;
+    color: yellow;
+    padding: 6px 16px;
+    border-radius: 999px;
+}
